@@ -1,10 +1,8 @@
 # HackerRank-Python
-# HackerRank-Solutions
 My solutions.
 
 - Introduction
    - [Say Hello, World! With Python](Introduction/SayHelloWorldWithPython.py)
-   - [Reading Raw Input](Introduction/ReadingRawInput.py)
    - [Python If-Else](Introduction/PythonIfElse.py)
    - [Arithmetic Operators](Introduction/ArithmeticOperators.py)
    - [Python: Division](Introduction/PythonDivision.py)
