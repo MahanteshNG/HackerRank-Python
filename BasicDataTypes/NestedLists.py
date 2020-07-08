@@ -5,9 +5,7 @@ minimum=s[0][1]
 for each in s:
     if minimum>=each[1]:
         minimum=each[1]
-for each in s:
-    if each[1]==minimum:
-        s.remove(each)
+s[:]=[each for each in s if each[1]!=minimum]
 sl=[]
 minimum=s[0][1]
 for each in s:
