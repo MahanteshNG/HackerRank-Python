@@ -13,7 +13,7 @@ My solutions.
    - [Lists](BasicDataTypes/Lists.py)
    - [Tuples](BasicDataTypes/Tuples.py)
    - [List Comprehensions](BasicDataTypes/ListComprehensions.py)
-   - [Find the Second Largest Number](BasicDataTypes/FindtheSecondLargestNumber.py)
+   - [Find the Runner-Up Score!](BasicDataTypes/FindtheRunner-UpScore.py)
    - [Nested Lists](BasicDataTypes/NestedLists.py)
    - [Finding the percentage](BasicDataTypes/Findingthepercentage.py)
 - Strings
